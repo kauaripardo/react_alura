@@ -1,2 +1,3 @@
 # react_alura
- intensivão de react com a alura
+ Imersão React com a alura
+
